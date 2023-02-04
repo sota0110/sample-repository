@@ -5,3 +5,4 @@
 pushとpullの練習
 次はpullをやってみる
 コンフリクトの練習
+pull requestの練習もする
