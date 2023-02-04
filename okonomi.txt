@@ -4,3 +4,4 @@
 このブランチにだけメッセージを入れます
 pushとpullの練習
 次はpullをやってみる
+practice conflict
