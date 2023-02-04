@@ -7,3 +7,4 @@ pushとpullの練習
 コンフリクトの練習
 pull requestの練習もする
 practice more
+branchに追加
