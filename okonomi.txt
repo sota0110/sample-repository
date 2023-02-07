@@ -14,3 +14,5 @@ practice push
 practice pull
 practice prune
 headがついている
+practice stash
+cherry-pick
