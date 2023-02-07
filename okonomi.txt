@@ -13,3 +13,4 @@ practice fetch
 practice push
 practice pull
 practice prune
+headがついている
