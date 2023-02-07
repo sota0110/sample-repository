@@ -12,3 +12,4 @@ practice 123456
 practice fetch
 practice push
 practice pull
+practice prune
